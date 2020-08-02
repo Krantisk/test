@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testng Suite" duration-ms="100002" started-at="2020-08-02T19:26:58 IST" finished-at="2020-08-02T19:28:38 IST">
+    <groups>
+    </groups>
+    <test name="Test Framework" duration-ms="100002" started-at="2020-08-02T19:26:58 IST" finished-at="2020-08-02T19:28:38 IST">
+      <class name="driver.DriverScript">
+        <test-method status="PASS" signature="loadClasses()[pri:0, instance:driver.DriverScript@1fa3a9d]" name="loadClasses" is-config="true" duration-ms="31" started-at="2020-08-02T19:26:58 IST" finished-at="2020-08-02T19:26:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadClasses -->
+        <test-method status="PASS" signature="executeTestScripts()[pri:0, instance:driver.DriverScript@1fa3a9d]" name="executeTestScripts" duration-ms="99962" started-at="2020-08-02T19:26:58 IST" finished-at="2020-08-02T19:28:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScripts -->
+      </class> <!-- driver.DriverScript -->
+    </test> <!-- Test Framework -->
+  </suite> <!-- testng Suite -->
+</testng-results>

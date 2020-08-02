@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng Suite">
+   <test name="Test Framework">
+      <classes>
+         <class name="driver.DriverScript">
+            <methods>
+               <include name="loadClasses"></include>
+               <include name="executeTestScripts"></include>
+            </methods>
+         </class>
+      </classes>
+   </test>
+</suite>
